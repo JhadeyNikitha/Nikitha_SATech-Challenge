@@ -1,5 +1,6 @@
-# Nikitha_SATech-Challenge
-worked on tendable.com
+*Nikitha_SATech-Challenge*
+worked on tendable.com 
+used **Cypress** Framework - in **Javascript** language
 **Steps to run test project:**
 1. Create an account in gitHub
 2. Create a repository for the project
